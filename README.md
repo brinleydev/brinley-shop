@@ -1,7 +1,7 @@
 ## [FREE] SHOP SYSTEM LIKE NOPIXEL 4.0
 
 ## 👀 Preview
-https://youtu.be/dvlGfUP5a4A
+https://youtu.be/odzvHAJ_1R0
 
 
 # DEPENDENCIES
