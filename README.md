@@ -5,7 +5,7 @@ https://youtu.be/odzvHAJ_1R0
 
 
 # DEPENDENCIES
-[TEXT UI](https://github.com/brinleydev/brinley-shop)
+[TEXT UI](https://github.com/brinleydev/brinley-textui)
 
 
 ## 💻 Discord:
